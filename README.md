@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects involving spatial data analysis, data visualization, and predictive modeling.
 - 📫 How to reach me: nishthaahuja8070@gmail.com, [LinkedIn](https://www.linkedin.com/in/nishtha-ahuja-na31102000)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I recently completed a 5-month internship at TCS!
+- ⚡I recently completed a 5-month internship at TCS!
 
 <!---
 Nishthahuja/Nishthahuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
